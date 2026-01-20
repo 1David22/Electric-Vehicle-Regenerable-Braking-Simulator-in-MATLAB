@@ -1,0 +1,12 @@
+# MATLAB gitignore - specific for your project
+*.autosave
+*.asv
+*.m~
+*.slxc
+*.sldd
+slprj/
+sfprj/
+*.mex*
+*.p
+Generated_Code/
+_tmp/
